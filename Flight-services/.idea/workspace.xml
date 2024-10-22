@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1dafe998-3a99-48d6-86f2-8513200746b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Airline/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AirlinesServices/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cloud-config/Cloud-config/src/main/resources/configurations/airline.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cloud-config/Cloud-config/src/main/resources/configurations/airline.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cloud-config/Cloud-config/src/main/resources/configurations/flightservice.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cloud-config/Cloud-config/src/main/resources/configurations/flightservice.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cloud-config/Cloud-config/src/main/resources/configurations/passenger.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cloud-config/Cloud-config/src/main/resources/configurations/passenger.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2n91FqboyB6fqPoDxbuzGv8VvII" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Administrator/Desktop/microservice-webclient/Gateway"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1dafe998-3a99-48d6-86f2-8513200746b0" name="Changes" comment="" />
+      <created>1728370376654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728370376654</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dacce416-5dda-4dc9-9058-a8e381f862cd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Airline/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airline/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airline/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airline/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airline/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AirlinesServices/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AirlinesServices/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AirlinesServices/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AirlinesServices/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AirlinesServices/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cloud-config/src/main/resources/configurations/gateway.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cloud-config/src/main/resources/configurations/security.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gateway/src/main/java/com/example/Gateway/Filter/AuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gateway/src/main/java/com/example/Gateway/Filter/RouteValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gateway/src/main/java/com/example/Gateway/GatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gateway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Passangerinfo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Passangerinfo/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Passangerinfo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Passangerinfo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Passangerinfo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Passangerinfo/Passangerinfo/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Security/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Security/dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Security/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Security/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Security/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Security/src/main/java/com/example/Security/Config/AuthConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Security/src/main/java/com/example/Security/Config/CustomUserDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Security/src/main/java/com/example/Security/Config/CustomUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Security/src/main/java/com/example/Security/Controller/UserCredentialsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Security/src/main/java/com/example/Security/Entity/Security.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Security/src/main/java/com/example/Security/Repository/SecurityRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Security/src/main/java/com/example/Security/SecurityApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Security/src/main/java/com/example/Security/Service/JwtService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Security/src/main/java/com/example/Security/Service/UserCredentialsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Security/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Airline/Airline/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Airline/Airline/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cloud-config/src/main/resources/configurations/airline.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Cloud-config/src/main/resources/configurations/airline.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cloud-config/src/main/resources/configurations/flightservice.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Cloud-config/src/main/resources/configurations/flightservice.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cloud-config/src/main/resources/configurations/passenger.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Cloud-config/src/main/resources/configurations/passenger.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flight-services/Flight-services/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Flight-services/Flight-services/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Passangerinfo/Passangerinfo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Passangerinfo/Passangerinfo/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "anxgh-n"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/anxgh-n/microservice-webclient",
+    "accountId": "1ee2e946-206b-4b1b-b49f-78df5b12e0a4"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2n964LtD5uNtJ5xcrvGUcG2ex69" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Administrator/Desktop/microservice-webclient/Cloud-config"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dacce416-5dda-4dc9-9058-a8e381f862cd" name="Changes" comment="" />
+      <created>1728372751422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728372751422</updated>
+    </task>
+    <servers />
+  </component>
+</project>
